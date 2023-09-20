@@ -1,4 +1,4 @@
-#git-course-example-user
+#git-course-example
 
 Жили у бабуси  
 Два весёлых гуся:  
