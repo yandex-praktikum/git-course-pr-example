@@ -1,4 +1,4 @@
-# git-course-pr-example
+﻿# git-course-pr-example
 
 Жили у бабуси  
 Два весёлых гуся:  
