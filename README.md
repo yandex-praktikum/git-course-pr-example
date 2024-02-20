@@ -1,5 +1,7 @@
 # git-course-pr-example
 
+new_line
+
 Жили у бабуси  
 Два весёлых гуся:  
 Один — серый,  
