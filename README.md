@@ -5,3 +5,7 @@
 Один — серый,  
 Другой — белый,  
 Два весёлых гуся.  
+
+---
+
+f gjnjv yfcnrgbk ltym ,kfujlfhtybz
