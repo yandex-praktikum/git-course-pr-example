@@ -1,6 +1,6 @@
-Jili u baboose
-Two funy goose
-Odin sizyi
-Drugoy sivyi
-Two funy goose
+Jili u baboose  
+Two funy goose  
+Odin серый  
+Drugoy белый  
+Two funy goose  
 
