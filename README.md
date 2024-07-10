@@ -1,7 +1,6 @@
-# git-course-pr-example
+Jili u baboose
+Two funy goose
+Odin sizyi
+Drugoy sivyi
+Two funy goose
 
-Жили у бабуси  
-Два весёлых гуся:  
-Один — серый,  
-Другой — белый,  
-Два весёлых гуся.  
